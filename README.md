@@ -17,7 +17,7 @@
 | Project | Role | Specialization |
 | :--- | :--- | :--- |
 | **SwiftMC** | Founder | High-Performance Practice Network |
-| **The Root's** | Developer | Backend Systems & Game Logic |
+| **The Root's** | Founder/Developer | We code, We share |
 
 ## 🌐 Connect with the Brand
 [![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@PixleNinja1)
